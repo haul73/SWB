@@ -1,4 +1,2 @@
-def sun(a,b):
-	return a+b
+#Bot 4 Summoners War Sky Arena
 
-print(sun(2,5))
